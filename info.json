@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "cards": [
+  "orange_cards": [
     {
         "type": 1,
         "level": 1,
@@ -17,5 +17,55 @@
         "flavor_txt": "Tastes like cookies",
         "time": 90
     }
-  ]
+  ],
+ "yellow_cards": [
+    {
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
+    }
+  ],
+"green_cards": [
+    {
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
+    }
+  ],
+"blue_cards": [
+    {
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
+    }
+  ],
+"indigo_cards": [
+    {
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
+    }
+  ],
+"violet_cards": [
+    {
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
+    }
+  ],
 }
