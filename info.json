@@ -1,5 +1,13 @@
 {
-  "Test": {
-     "Result": 100
-  }
+  "card": [
+    {
+        "name": "First Card"
+    },
+    {
+        "name": "Second Card"
+    },
+    {
+        "name": "Third Card"
+    },
+  ]
 }
