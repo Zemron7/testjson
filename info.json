@@ -1,13 +1,20 @@
 {
-  "card": [
+  "cards": [
     {
-        "name": "First Card"
+        "type": 1,
+        "level": 1,
+        "name": "Say Something Nice",
+        "desc": "You will say one very nice thing",
+        "flavor_txt": "Well, that's nice, isn't it?",
+        "time": 60
     },
     {
-        "name": "Second Card"
-    },
-    {
-        "name": "Third Card"
+        "type": 2,
+        "level": 1,
+        "name": "Say Something Sweet",
+        "desc": "You will say one very sweet thing",
+        "flavor_txt": "Tastes like cookies",
+        "time": 90
     }
   ]
 }
