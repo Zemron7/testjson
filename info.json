@@ -1,71 +1,382 @@
 {
-  "version": "1.0",
-  "orange_cards": [
+  "version": "1.1",
+  "cards": [
     {
         "type": 1,
-        "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What do you hope your last words will be?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What non-spiritual belief do you hold but have no proof of?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What kinds of confrontation are you uncomfortable with?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "When do you feel like you need alone time?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What is the quickest way to change a bad mood?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What do you find the most charming about me?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "How satisfied are you with your work?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What do you think about most often?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What kind of gifts do you like?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "What kind of gifts do you not like?",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 1,
+        "level": -1,
+        "category": "Conversation",
+        "name": "Tell Me....",
+        "desc": "How do you deal with difficult people?",
+        "time": -1,
+        "gendercode": -1
     },
     {
         "type": 2,
-        "level": 1,
-        "name": "Say Something Sweet",
-        "desc": "You will say one very sweet thing",
-        "flavor_txt": "Tastes like cookies",
-        "time": 90
-    }
-  ],
- "yellow_cards": [
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "You are the better cook",
+        "time": -1,
+        "gendercode": -1
+    },
     {
-        "type": 1,
-        "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
-    }
-  ],
-"green_cards": [
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you have had sex while your parents are home",
+        "time": -1,
+        "gendercode": -1
+    },
     {
-        "type": 1,
-        "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
-    }
-  ],
-"blue_cards": [
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "...you were the first of you to catch the feels",
+        "time": -1,
+        "gendercode": -1
+    },
     {
-        "type": 1,
-        "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
-    }
-  ],
-"indigo_cards": [
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "...you are the bigger flirt",
+        "time": -1,
+        "gendercode": -1
+    },
     {
-        "type": 1,
-        "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
-    }
-  ],
-"violet_cards": [
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you spend the most time on your phone",
+        "time": -1,
+        "gendercode": -1
+    },
     {
-        "type": 1,
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you paid for the last dinner out.",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you spend the most time working out.",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you have the most Instagram followers",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 2,
+        "level": -1,
+        "category": "Tell the Truth",
+        "name": "Drink if...",
+        "desc": "... you have the most Facebook followers",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... go like the first post on your partner's social?",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... guess your partner's favorite restaurant?",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... make a dinner reservation for you and your partner within the next week?",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... guess your partner's favorite show?",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... say your partner's biggest flaw?",
+        "flavortext": "If not, take two drinks!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": ".. tell your partner two truths and one lie. ",
+        "flavortext": "If they guess the lie, you drink. If not, they do!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... tell your partner about your most embarrassing moment.",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 3,
+        "level": -1,
+        "category": "Dare",
+        "name": "Can you...",
+        "desc": "... guess your partner's favorite restaurant.",
+        "flavortext": "If not, take a drink!",
+        "time": -1,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
         "level": 1,
-        "name": "Say Something Nice",
-        "desc": "You will say one very nice thing",
-        "flavor_txt": "Well, that's nice, isn't it?",
-        "time": 60
+        "category": "Acting",
+        "name": "You May",
+        "desc": "Kiss your partner neck, starting in the back, and making a full circle",
+        "flavortext": "Ask if they want licks or nibbles!",
+        "time": 120,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 1,
+        "category": "Vanilla",
+        "name": "You May",
+        "desc": "Kiss your partner. ",
+        "flavortext": "No tongues allowed!",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 1,
+        "category": "Direct",
+        "name": "You May",
+        "desc": "Tell your partner where you want to be kissed",
+        "flavortext": "Anywhere but your lips!",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 1,
+        "category": "Romance",
+        "name": "You May",
+        "desc": "Stand behind your partner. Wrap your arms around them and kiss them.",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 1,
+        "category": "Romane",
+        "name": "You May",
+        "desc": "Face your partner and hug them.",
+        "flavortext": "Get as much contact as possible!",
+        "time": 60,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Acting",
+        "name": "You May",
+        "desc": "Pretend you need to examine your partners tonsils. ",
+        "flavortext": "Then perform a more thorough exam  with your tongue",
+        "time": 120,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Direct",
+        "name": "You May",
+        "desc": "Suck on your partners fingers or toes (your choice) ",
+        "time": 120,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Direct",
+        "name": "You May",
+        "desc": "Suck on your partners fingers or toes (their choice) ",
+        "time": 120,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Romance",
+        "name": "You May",
+        "desc": "Gently lick your partner's ear lobes",
+        "flavortext": "Take small breaks to blow on them",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Vanilla",
+        "name": "You May",
+        "desc": "Massage your partner's shoulders",
+        "flavortext": "If they are satisfied, you may kiss them when done",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Vanilla",
+        "name": "You May",
+        "desc": "Massage your partner's hands",
+        "flavortext": "If they are satisfied, you may kiss them when done",
+        "time": 90,
+        "gendercode": -1
+    },
+    {
+        "type": 4,
+        "level": 2,
+        "category": "Vanilla",
+        "name": "You May",
+        "desc": "Massage your partner's feet",
+        "flavortext": "If they are satisfied, you may kiss them when done",
+        "time": 90,
+        "gendercode": -1
     }
-  ]
+]
 }
